@@ -19,6 +19,7 @@ Then run 'npm run seed' to run the task of seeding the database.
 - User profile photo
 - Report a movie
 - Report a review
+- Follow Unfollow users
 
 ## GitHub Link
 - https://github.com/amankhalfay98/BingeWatch
